@@ -56,7 +56,7 @@ nav {
     color: black;
     object-fit: contain;
     object-position: center center;
-    width: 30%;
+    width: 40%;
     /* height: 500px; */
     border-radius: 16px;
     background-color: white;
@@ -71,4 +71,5 @@ nav {
 
 .project:hover {
     transform: scale(103%);
+
 }
