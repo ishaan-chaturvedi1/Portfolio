@@ -93,6 +93,12 @@ nav {
         flex-direction: column;
         gap: calc(50px * 1.4886);
     }
+    .skills {
+        padding-bottom: 62.8636px;
+    }
+    .skillsHeading {
+        margin-bottom: 31.3698px;
+    }
     .skillsInformation img {
         transform: scale(142.68%);
     }
