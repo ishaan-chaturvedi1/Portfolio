@@ -92,10 +92,7 @@ nav {
     .skillsInformation {
         flex-direction: column;
     }
-    .skillsInformation a img {
-        transform: scale(150%);
-    }
-    .skills {
+    .skillsInformation img {
         transform: scale(142.86%);
     }
 }
