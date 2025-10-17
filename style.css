@@ -95,4 +95,7 @@ nav {
     .skillsInformation a img {
         transform: scale(150%);
     }
+    .skills {
+        transform: scale(142.86%);
+    }
 }
